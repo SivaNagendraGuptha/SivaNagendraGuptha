@@ -15,6 +15,8 @@ sonar.projectName=2104450_DevOps-CaseStudy
 sonar.projectVersion=1.0
 sonar.language=java
 sonar.sources=src
+sonar.host.url=http://localhost:9000
+sonar.login=my_auth_token
 
 Error: LinkageError occurred while loading main class org.sonarsource.scanner.cli.Main
 	java.lang.UnsupportedClassVersionError: org/sonarsource/scanner/cli/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
