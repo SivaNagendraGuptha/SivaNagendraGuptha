@@ -26,3 +26,6 @@ sonar.projectKey=siva-simple-java
 sonar.projectName=siva-simple-java
 sonar.java.binaries=target/classes
 sonar.exclusions=**/*.java
+
+
+https://github.com/jenkins-docs/simple-java-maven-app.git
