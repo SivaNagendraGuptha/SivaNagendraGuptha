@@ -31,6 +31,9 @@ sonar.exclusions=**/*.java
 https://github.com/jenkins-docs/simple-java-maven-app.git
 
 
+<role rolename="manager-gui"/>
+<user username="admin" password="admin" roles="manager-gui, manager-script "/>
+
 
 
 ERROR: Step ‘Deploy war/ear to a container’ aborted due to exception: 
